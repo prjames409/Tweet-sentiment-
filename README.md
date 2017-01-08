@@ -1,5 +1,5 @@
 # Tweet-sentiment-
-This Script was created with the help of Siraji tutorials on sentiment analysis. This script is meant to search public tweets in real time and analyze each tweets sentimental value. 
+This Script was created with the help of Siraj tutorials on sentiment analysis. This script is meant to search public tweets in real time and analyze each tweets sentimental value. 
 
 
 
