@@ -12,7 +12,7 @@ auth.set_access_token(access_token, access_token_secret)
 
 api = tweepy.API(auth)
 
-public_tweet = api.search('trump')
+public_tweet = api.search('Enter the term you want to search on')
 
 for tweet in public_tweet:
   print(tweet.text)
